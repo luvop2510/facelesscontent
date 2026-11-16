@@ -1,1 +1,0 @@
-{"name":"launchplan-specflow-stories","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"python3 -m http.server 4173 --bind 127.0.0.1 --directory dist","check":"node --check dist/app.js && node --check dist/data.js && node --check dist/embed.js && node --check dist/shelf.js && node --check dist/gateway.js && node --check dist/launchplan/launchplan.js"}}
