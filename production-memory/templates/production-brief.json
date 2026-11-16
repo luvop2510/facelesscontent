@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "status": "draft_template",
+  "channel_id": null,
+  "episode_id": null,
+  "mode": "original",
+  "topic": null,
+  "audience_problem": null,
+  "brand_version_sources": [],
+  "cast_and_voice_profiles": [],
+  "research_sources": [],
+  "retrieved_reference_pattern_lesson_ids": [],
+  "objective": null,
+  "hypothesis": null,
+  "primary_metric": null,
+  "hook": null,
+  "promised_payoff": null,
+  "beats": [],
+  "beat_shape": "Use beat-sheet.json performance/cinematography/graphics/sound fields; in original mode replace source intervals with planned timing, then align to accepted narration.",
+  "resource_offer": {
+    "artifact_path": null,
+    "delivery_route": null,
+    "route_verified": false
+  },
+  "accepted_narration_path": null,
+  "timeline_version": null,
+  "render": {
+    "width": null,
+    "height": null,
+    "fps": null,
+    "source_entrypoint": null
+  },
+  "encoded_review_paths": [],
+  "experiment": {
+    "one_change": null,
+    "baseline_post_ids": [],
+    "measurement_age_hours": [
+      24,
+      168
+    ]
+  },
+  "unresolved_questions": []
+}

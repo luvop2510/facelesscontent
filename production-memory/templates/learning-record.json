@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "record_type": "lesson",
+  "status": "proposed",
+  "channel_scope": [],
+  "title": null,
+  "observation": null,
+  "hypothesis": null,
+  "proposed_change": null,
+  "evidence": [
+    {
+      "record_id": null,
+      "path": null,
+      "sha256": null,
+      "timecode": null,
+      "evidence_type": null
+    }
+  ],
+  "cohort": {
+    "platform": null,
+    "account_id": null,
+    "format": null,
+    "organic": null,
+    "measurement_age_hours": null,
+    "baseline_post_ids": []
+  },
+  "confidence": "unassessed",
+  "alternative_explanations": [],
+  "counterexamples": [],
+  "next_experiment": {
+    "target_channel": null,
+    "primary_metric": null,
+    "one_change": null,
+    "review_at": null
+  },
+  "reviewer": null,
+  "reviewed_at": null
+}

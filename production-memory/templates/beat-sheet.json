@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "record_type": "reference_audit",
+  "status": "template_not_observed",
+  "channel_id": null,
+  "episode_id": null,
+  "source": {
+    "path": null,
+    "sha256": null,
+    "origin_url": null,
+    "duration_s": null,
+    "fps": null,
+    "timebase": null,
+    "rights_and_reuse_scope": "unknown"
+  },
+  "inspection": {
+    "complete_picture_review": false,
+    "complete_audio_review": false,
+    "reviewer": null,
+    "reviewed_at": null,
+    "evidence_paths": []
+  },
+  "beats": [
+    {
+      "id": "beat-001",
+      "in_s": null,
+      "out_s": null,
+      "purpose": null,
+      "dialogue": {
+        "exact_words": null,
+        "speaker": null,
+        "delivery": null,
+        "emphasis": [],
+        "emotion_start": null,
+        "emotion_end": null
+      },
+      "performance": {
+        "gesture": null,
+        "eyeline": null,
+        "listener_response": null,
+        "mouth_and_prop_anchors": []
+      },
+      "cinematography": {
+        "shot_size": null,
+        "camera_movement": null,
+        "lighting": null,
+        "background": null,
+        "transition": null
+      },
+      "graphics": {
+        "action": null,
+        "caption_text": null,
+        "timing_anchors": []
+      },
+      "sound": {
+        "music_energy": null,
+        "silence": null,
+        "cues": []
+      },
+      "observation_evidence": [],
+      "hypothesis": null,
+      "unknowns": []
+    }
+  ],
+  "derived_assets": [],
+  "deviations": [],
+  "unresolved_questions": []
+}
